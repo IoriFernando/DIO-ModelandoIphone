@@ -1,0 +1,13 @@
+.tmp
+.bak
+.swp
+
+# Arquivos compilados Java
+.class
+
+# Arquivos de configuração do Eclipse
+.settings
+.metadata
+
+# Cache e arquivos de build do Maven
+target
